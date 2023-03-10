@@ -6,27 +6,20 @@
  ## :memo: Formulário
 
  <div align="center">
-<img src="https://user-images.githubusercontent.com/124575968/222930751-17de9658-290c-4e3f-854a-185668d17759.png" widht"300px" />
+<img src="" widht"300px" />
 </div>
  
 
-- Criado dia 04/03/23 por meio deste vídeo --> [Clique aqui](https://www.youtube.com/watch?v=wwqOJ2o84S4)
-
-- Para ver os códigos --> [Clique aquiii](https://github.com/maycondouglasbm/Meu-portfolio/tree/main/formul%C3%A1rio)
-
-- Autora --> [Rafaella Ballerini](https://github.com/rafaballerini)
-
+- Criado dia 
 ---
 
 ## :spiral_notepad: Página de login
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/124575968/223171496-a5412bc5-f7a0-4f15-b292-afd1f4257fcd.png" widht"150px" />
+<img src="https://user-images.githubusercontent.com/124575968/224443928-6a5659cd-0d98-4c35-adc0-91128057327d.png" widht"150px" />
 </div>
 
-- Criado dia 06/03/23 inspirado no vídeo --> [Clique aqui](https://www.youtube.com/watch?v=lP-XV2wXXQM)
-
-- Para ver o código --> [Clique aqui](https://github.com/maycondouglasbm/Meu-portfolio/tree/main/P%C3%A1gina%20de%20login)
+- Criado dia 10/03/23 inspirado no vídeo 
 
 ---
 
