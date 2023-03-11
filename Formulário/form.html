@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div>
+        <h1>Formulário</h1>
+            <input type="text" placeholder="Nome completo">  <input type="text" placeholder="Idade">
+            <br><br>
+            <label for="ano de nascimento">Data de nascimento</label> 
+            <br><br>
+            <input type="date" name="ano de nascimento" id="ano de nascimento" class="InputUser" required>    <label for="sexo">SEXO</label>
+                    <select name="SEXO" id="sexo">
+                        <option selected disabled value="sexo">Selecione</option>
+                        <option>Masculino</option>
+                        <option>Feminino</option>
+                        <option>Outro</option>
+                    </select>
+            <br><br>
+                <input type="text" placeholder="Telefone"> <input type="text" placeholder="Email">
+                <br><br>
+                <input type="text" placeholder="Cidade"> <input type="text" placeholder="Estado">
+             <br>
+            <p>Atua em qual área?</p>
+            <input type="text" placeholder="">
+            <br><br>
+            <label><strong>Conte um pouco da sua experiência</strong></label>
+            <br><br>
+            <textarea name="exeperiência" id="exeperiência" cols="55" rows="2"></textarea>
+            <br><br>
+        <button class="botão"  type="submit">Enviar</button>
+    </div>
+</body>
+</html>
